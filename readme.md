@@ -1,6 +1,3 @@
-我看到你的README文件在GitHub上显示有问题。主要问题是代码块没有正确闭合，还有一些格式问题。让我帮你修正：
-
-```markdown
 # 《用纯Python手搓经典计算机视觉算法》开源教材
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -97,4 +94,4 @@
 ## 许可证
 
 &emsp;&emsp;本项目采用 MIT 许可证。详情请查看 [LICENSE](./LICENSE) 文件。
-```
+
