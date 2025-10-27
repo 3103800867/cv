@@ -1,9 +1,3 @@
-根据你的 README.md 文档内容，我为你编写了 Softmax 分类器的协作日志：
-
-
-
-```markdown
-
 \# 协作日志：与 LLM 共创 Softmax 线性分类器
 
 
