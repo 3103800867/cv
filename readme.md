@@ -87,7 +87,7 @@
    ```bash
    # 运行KNN分类器
    cd knn
-   python knn.py
+   python KNN.py
    
    # 运行Softmax分类器
    cd ../softmax
